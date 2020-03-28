@@ -1,0 +1,22 @@
+large screen				lg
+medium screen				md
+small screen				sm
+extra small screen			xs
+
+
+col-lg-4
+
+grid system = 12 units
+
+col = coloumn
+lg  = large screen
+4   = 1/3 grid system
+
+
+visible // show
+hidden //  hide
+
+hidden-{screen name}// hidden-lg
+
+visible-{screen name}-{block / inline / inline-block}// visible-sm-block 
+ 
